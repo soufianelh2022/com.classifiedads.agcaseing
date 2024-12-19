@@ -1,7 +1,7 @@
 {
     "adKeys": {
-        "interstitialAdUnitId": "c9feceddbf0d8ec4",
-        "rewardedAdUnitId": "c9feceddbf0d8ec7",
-        "bannerAdUnitId": "c9feceddbf0d8ec14"
+        "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+        "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+        "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111"
     }
 }
