@@ -2,6 +2,6 @@
     "adKeys": {
         "interstitialAdUnitId": "ca-app-pub-5318077592177136/9949192579",
         "rewardedAdUnitId": "ca-app-pub-5318077592177136/9801589586",
-        "bannerAdUnitId": "ca-app-pub-5318077592177136/9769768176"
+        "bannerAdUnitId": "ca-app-pub-5318077592177136/97697681"
     }
 }
